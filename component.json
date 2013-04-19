@@ -1,5 +1,6 @@
 {
   "name": "angular-i18n",
+  "version": "1.0.6",
   "repository": {
     "type": "git",
     "url": "git://github.com/Magomogo/angular-i18n.git"
